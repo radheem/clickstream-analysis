@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+build
+.git
+.vscode
+.agents
+.claude
+npm-debug.log*
+*.tsbuildinfo
+.DS_Store
+.env*
+.vercel
+**/*:Zone.Identifier
+Dockerfile
+.dockerignore
+docker-compose.yml
